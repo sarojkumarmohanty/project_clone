@@ -1,1 +1,3 @@
 one line to m_file1
+
+second line to m_file2
